@@ -56,3 +56,4 @@ rc_mksid-no-buffer-overflow
 pppd-soname-hack.patch
 eaptls-mppe.patch
 replace-vendored-hash-functions.patch
+replace-des-crypt.patch
