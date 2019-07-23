@@ -1,3 +1,9 @@
+ppp (2.4.7-2+4.1+vyos3+equuleus1) unstable; urgency=medium
+
+  * Import the crypt fix and Vyatta patches.
+
+ -- Daniil Baturin <daniil@baturin.org>  Tue, 23 Jul 2019 04:58:19 -0400
+
 ppp (2.4.7-2+4) unstable; urgency=medium
 
   * Update EAP-TLS patch to version 1.102. (Closes: #912822)

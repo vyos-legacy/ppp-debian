@@ -394,6 +394,7 @@ pppd.so.2.4.7 ppp #MINVER#
  remove_notifier@Base 2.4.7-1+2~
  remove_pidfiles@Base 2.4.7-1+2~
  reopen_log@Base 2.4.7-1+2~
+ reopen_logfile@Base 2.4.7-2+4.1+vyos3+equuleus1
  req_ifname@Base 2.4.7-1+2~
  req_unit@Base 2.4.7-1+2~
  reset_link_stats@Base 2.4.7-1+2~
